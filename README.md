@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter, Machine Learning**
 
-- 📫 How to reach me **kraiyaan@gmail.conm**
+- 📫 How to reach me **kraiyaan@gmail.com**
 
 
 
