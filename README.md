@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiyaan555&theme=tokyonight&show_icons=true&locale=en" alt="raiyaan555" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=raiyaan555&theme=radical&hide_border=true)](https://git.io/streak-stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raiyaan555&theme=radical&hide_border=true)](https://git.io/streak-stats" /></p>
 <img src="https://assets.hongkiat.com/uploads/programming-jokes/joke-programmer-count.jpg" alt="alternatetext" style="width:700px;height:400px;">
 
 
