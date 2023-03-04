@@ -1,10 +1,12 @@
 <h1 align="left">Hi 👋, I'm Raiyaan</h1>
 <h3 align="left">I sleep. I eat. I think. I code. I develop.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyaan555&label=Profile%20views&color=blueviolet&style=flat" alt="raiyaan555" /> </p>
+
 - 🔭 I’m currently working on **Deep Learning Projects**
 - 🌱 I’m currently learning **TensorFlow**
 - 💬 Ask me about **Flutter, Machine Learning, Java**
 - 📫 How to reach me **kraiyaan@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/raiyaan-khan-4849481b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raiyaan-khan-4849481b7/" height="30" width="40" /></a>
