@@ -3,36 +3,6 @@
 <h3 align="left">I sleep. I eat. I think. I code. I develop. I am. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyaan555&label=Profile%20views&color=blueviolet&style=flat" alt="raiyaan555" /> </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - 🔭 I’m currently working on **Deep Learning Projects**
 - 🌱 I’m currently learning **TensorFlow**
 - 💬 Ask me about **Flutter, Machine Learning, Java**
@@ -44,7 +14,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/raiyaan-khan-4849481b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raiyaan-khan-4849481b7/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/raiyaanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/raiyaanx" height="30" width="40" /></a>
 <a href="https://www.instagram.com/xraiyaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/xraiyaan/" height="30" width="40" /></a>
@@ -60,6 +30,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiyaan555&theme=tokyonight&show_icons=true&locale=en" alt="raiyaan555" /></p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raiyaan555&theme=radical&hide_border=true)](https://git.io/streak-stats" /></p>
-<img src="https://assets.hongkiat.com/uploads/programming-jokes/joke-programmer-count.jpg" alt="alternatetext" style="width:700px;height:400px;">
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=raiyaan555&theme=radical&hide_border=true)](https://git.io/streak-stats" /></p>
+<img  align = "left" src="https://assets.hongkiat.com/uploads/programming-jokes/joke-programmer-count.jpg" alt="alternatetext" style="width:700px;height:400px;">
 
