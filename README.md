@@ -27,5 +27,5 @@
 <h3 align="left">My Contributions:</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=raiyaan555&theme=radical&hide_border=true)](https://git.io/streak-stats" /></p>
-<img  align = "left" src="[https://assets.hongkiat.com/uploads/programming-jokes/joke-programmer-count.jpg](https://i.pinimg.com/originals/fe/c8/52/fec852c3000074d73b8a0c717b053853.gif)https://i.pinimg.com/originals/fe/c8/52/fec852c3000074d73b8a0c717b053853.gif" alt="alternatetext" style="height:400px;">
+<img  align = "center" src="https://i.pinimg.com/originals/fe/c8/52/fec852c3000074d73b8a0c717b053853.gif" alt="alternatetext" style="height:400;">
 
