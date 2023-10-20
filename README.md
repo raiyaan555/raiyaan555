@@ -11,8 +11,7 @@
 - 📫 How to reach me **kraiyaan@gmail.com**
 
 <hr>
-[![@raiyaan555's Holopin board](https://www.holopin.io/@raiyaan555#)](https://www.holopin.io/@raiyaan555#)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=discord&row=2&column=3&margin-w=10&margin-h=10"/></a> </p>
+[![An image of @raiyaan555's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raiyaan555)](https://holopin.io/@raiyaan555)
 </hr>
 
 
