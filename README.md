@@ -10,9 +10,9 @@
 - 💬 Ask me about **Flutter, Machine Learning, Java**
 - 📫 How to reach me **kraiyaan@gmail.com**
 
-<hr>
+
 [![An image of @raiyaan555's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raiyaan555)](https://holopin.io/@raiyaan555)
-</hr>
+
 
 
 <h3 align="left">Connect with me:</h3>
