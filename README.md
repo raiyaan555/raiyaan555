@@ -10,6 +10,12 @@
 - 💬 Ask me about **Flutter, Machine Learning, Java**
 - 📫 How to reach me **kraiyaan@gmail.com**
 
+<hr>
+[![@raiyaan555's Holopin board](https://www.holopin.io/@raiyaan555#)](https://www.holopin.io/@raiyaan555#)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=discord&row=2&column=3&margin-w=10&margin-h=10"/></a> </p>
+</hr>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raiyaan-khan-4849481b7/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raiyaan-khan-4849481b7/" height="30" width="40" /></a>
