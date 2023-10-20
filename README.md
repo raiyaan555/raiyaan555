@@ -13,8 +13,6 @@
   
 
 
-[![An image of @raiyaan555's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raiyaan555)](https://holopin.io/@raiyaan555)
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,4 +34,8 @@
 <h3 align="left">My Contributions:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=raiyaan555&theme=radical&hide_border=true)](https://git.io/streak-stats" /></p>
 <image align="center" width = "800" src="https://i.pinimg.com/originals/fe/c8/52/fec852c3000074d73b8a0c717b053853.gif">
+
+[![An image of @raiyaan555's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raiyaan555)](https://holopin.io/@raiyaan555)
+
+
 
