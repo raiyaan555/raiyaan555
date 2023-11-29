@@ -1,4 +1,3 @@
-
 <image align="right" width = "400" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif">
 <h1 align="left">Hi 👋, I'm Raiyaan</h1>
 <h3 align="left">I sleep. I eat. I think. I code. I develop. I am. </h3>
