@@ -4,21 +4,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 - 🔭 I’m currently working on **Deep Learning Projects**
 - 🌱 I’m currently learning **TensorFlow**
-- 💬 Ask me about **Flutter, Machine Learning, Java**
+- 💬 Ask me about **Flutter, Machine Learni, Java**
 - 📫 How to reach me **kraiyaan@gmail.com**
 
   
