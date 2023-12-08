@@ -2,17 +2,10 @@
 <h1 align="left">Hi 👋, I'm Raiyaan</h1>
 <h3 align="left">I sleep. I eat. I think. I code. I develop. I am. </h3>
 
-
-
 - 🔭 I’m currently working on **Deep Learning Projects**
 - 🌱 I’m currently learning **TensorFlow**
 - 💬 Ask me about **Flutter, Machine Learni, Java**
 - 📫 How to reach me **kraiyaan@gmail.com**
-
-  
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
