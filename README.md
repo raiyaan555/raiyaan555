@@ -1,107 +1,168 @@
-````md
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="280"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF4dWR4cGh0d2pxOWo5ZXNtaWJ2bXBvZWd1OHNkM2l3emM4NW83bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
 
-# Raiyaan Khan
+# 👋 Hi, I'm Raiyaan Khan
 
-### Flutter Developer • Backend Engineer • AI Builder
+### Software Development Engineer
 
-Building scalable mobile apps, backend systems, and machine learning products.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Java+Backend+Engineer;Spring+Boot+%7C+Distributed+Systems;Building+Enterprise+Applications;AI+%7C+Flutter+%7C+Angular;Always+Learning+Something+New"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/raiyaan-khan-4849481b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/raiyaan555">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/raiyaanx/">
-  <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.kaggle.com/raiyaanx">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="mailto:kraiyaan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:raiyaankhan.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💻 About Me
 
 ```yaml
 name: Raiyaan Khan
-located_in: India
-current_focus:
-  [
-    "Backend Engineering",
-    "Machine Learning",
-    "System Design",
-    "CI/CD Pipelines",
-    "Flutter Development"
-  ]
 
-currently_learning: ["TensorFlow", "Spring Boot", "Kafka"]
+role: Software Development Engineer
+
+location: Mumbai, India 🇮🇳
+
+company: ARCON Techsolutions
+
+currently_building:
+  - Enterprise Identity Management Platforms
+  - Connector Automation Tools
+  - Angular Enterprise Applications
+  - AI Powered Products
+
+experience:
+  - Backend Engineering
+  - Distributed Systems
+  - REST APIs
+  - Enterprise Integrations
+  - Mobile Development
+  - Machine Learning
+
+currently_learning:
+  - System Design
+  - Spring Boot
+  - Kubernetes
+  - Kafka
+  - LLM Applications
+
+interests:
+  - Backend Engineering
+  - AI
+  - Distributed Systems
+  - DevOps
+  - Mobile Apps
 
 ask_me_about:
-  [
-    "Flutter",
-    "Java",
-    "Firebase",
-    "Machine Learning",
-    "Backend Systems"
-  ]
-````
+  - Java
+  - Spring Boot
+  - Angular
+  - Flutter
+  - Firebase
+  - Machine Learning
+```
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,firebase,python,tensorflow,docker,jenkins,kafka,mysql,git,linux,vscode"/>
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,python,cs,js,ts,dart,sql"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,firebase"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,flutter,react"/>
+
+</p>
+
+### AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions"/>
+
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,postman"/>
+
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🚀 Namazi Pro
+### 🚀 Connector Information Gathering Tool
 
-Islamic productivity app built using Flutter featuring:
-
-* Prayer Tracking
-* Quran Progress
-* Tasbeeh Counter
-* Adhaan Notifications
-* Zakaat Calculator
+Enterprise Angular 20 + ASP.NET Core 10 application replacing manual Connector Information Gathering Documents with an enterprise workflow.
 
 ---
 
-## 🧠 AI Outfit Recommendation System
+### ⚡ Connector Automation Tool
 
-Deep learning-powered outfit recommendation engine using:
-
-* TensorFlow
-* Computer Vision
-* Fashion Dataset Training
-* Color Palette Detection
+Rule-engine based automation platform that converts Postman collections into enterprise connector configurations.
 
 ---
 
-## 📈 Daily Motivation Quotes
+### 💪 BroScience
 
-Auto-generating motivational quote app using:
+AI-powered fitness platform featuring adaptive progressive overload algorithms and Firebase backend.
 
-* Flutter
-* Firebase
-* Unsplash API
-* Dynamic Sharing
+---
+
+### 🏥 Nirog
+
+Healthcare platform developed for Smart India Hackathon integrating patient records across hospitals.
 
 ---
 
@@ -111,19 +172,21 @@ Auto-generating motivational quote app using:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=raiyaan555&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=raiyaan555&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raiyaan555&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyaan555&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🧠 Currently Working On
+# 📈 Contribution Graph
 
-* Deep Learning Projects
-* Scalable Backend Systems
-* Flutter Applications
-* Competitive Programming
-* DevOps & CI/CD
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raiyaan555&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -132,27 +195,50 @@ Auto-generating motivational quote app using:
 <div align="center">
 
 <a href="https://leetcode.com/raiyaanx/">
-  <img src="https://leetcard.jacoblin.cool/raiyaanx?theme=dark&font=Nunito&ext=contest"/>
+
+<img src="https://leetcard.jacoblin.cool/raiyaanx?theme=dark&font=JetBrains+Mono&ext=contest"/>
+
 </a>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 Currently Working On
+
+- 🚀 Enterprise Identity Management
+- ⚡ Connector Automation
+- 🤖 AI Powered Applications
+- 🌐 Angular Enterprise Apps
+- ☁️ Cloud & DevOps
+- 📚 System Design
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/raiyaan-khan-4849481b7/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
-<a href="https://www.instagram.com/xraiyaan/">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
+&nbsp;&nbsp;
+
+<a href="mailto:raiyaankhan.work@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
-<a href="https://www.kaggle.com/raiyaanx">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48"/>
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/raiyaanx/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 </div>
@@ -161,9 +247,6 @@ Auto-generating motivational quote app using:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-
-### "Building products that feel premium."
+### ⭐ "Turning complex enterprise problems into elegant software."
 
 </div>
-```
