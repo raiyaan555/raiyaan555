@@ -1,12 +1,16 @@
 <div align="center">
 
 
-# 👋 Hi, I'm Raiyaan Khan
-
-### Software Development Engineer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Raiyaan%20Khan&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20•%20Backend%20Engineer%20•%20AI%20Builder&descAlignY=55"/>
 <img src="https://komarev.com/ghpvc/?username=raiyaan555&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Building+Enterprise+Applications;AI+%7C+React+Native+%7C+Angular;Backend+Engineering+%7C+System+Design;Always+Learning+Something+New"/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="750"/>
+</p>
+
+
 
 <br/>
 
