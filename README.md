@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF4dWR4cGh0d2pxOWo5ZXNtaWJ2bXBvZWd1OHNkM2l3emM4NW83bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
 
 # 👋 Hi, I'm Raiyaan Khan
 
 ### Software Development Engineer
+<img src="https://komarev.com/ghpvc/?username=raiyaan555&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Java+Backend+Engineer;Spring+Boot+%7C+Distributed+Systems;Building+Enterprise+Applications;AI+%7C+Flutter+%7C+Angular;Always+Learning+Something+New"/>
 
