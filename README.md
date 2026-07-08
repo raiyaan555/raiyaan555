@@ -6,7 +6,7 @@
 ### Software Development Engineer
 <img src="https://komarev.com/ghpvc/?username=raiyaan555&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Java+Backend+Engineer;Spring+Boot+%7C+Distributed+Systems;Building+Enterprise+Applications;AI+%7C+Flutter+%7C+Angular;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Building+Enterprise+Applications;AI+%7C+React+Native+%7C+Angular;Backend+Engineering+%7C+System+Design;Always+Learning+Something+New"/>
 
 <br/>
 
